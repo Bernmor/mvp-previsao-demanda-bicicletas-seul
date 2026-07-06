@@ -1,0 +1,8 @@
+.ipython/
+.jupyter_config/
+.jupyter_data/
+.jupyter_runtime/
+.matplotlib/
+.uv-cache/
+.uv-python/
+.venv/
